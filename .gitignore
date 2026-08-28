@@ -1,0 +1,9 @@
+# OS auto-generated
+.DS_Store
+Thumbs.db
+
+# KiCad temporary & backup files
+*.bak
+*-bak
+*.lck
+*.tmp
